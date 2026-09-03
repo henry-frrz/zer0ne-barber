@@ -1,0 +1,7 @@
+{
+  "name": "zer0ne-barber",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Appointment management system for barbershops",
+  "license": "MIT"
+}
